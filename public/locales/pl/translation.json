@@ -276,7 +276,8 @@
         "website": "Ładowanie strony"
     },
     "login": {
-        "externalLogin": "Zewnętrzne logowanie"
+        "externalLogin": "Zewnętrzne logowanie",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Synchronizacja zakończona",

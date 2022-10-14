@@ -61,7 +61,7 @@
             "launchAborted": "راه اندازی متوقف شد",
             "title": "خطا",
             "uncaught-exception": {
-                "message": "یک خطای نامشخص رخ داد:{{newLine}}{{error}}{{newLine}}{{newLine}}Heroic بسته خواهد شد! خطا را در ریپوزیتوری گیت‌هاب ما گزارش دهید.",
+                "message": "یک خطای نامشخص رخ داد:{{newLine}}{{error}}{{newLine}}{{newLine}}Heroic بسته خواهد شد! خطا را در ریپوزیتوری گیت\u200cهاب ما گزارش دهید.",
                 "title": "خطای نامشخص رخ داد!"
             },
             "update": {
@@ -276,7 +276,8 @@
         "website": "درحال بارگیری وبسایت"
     },
     "login": {
-        "externalLogin": "ورود خارجی"
+        "externalLogin": "ورود خارجی",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "همگامسازی کامل شد",
@@ -489,7 +490,7 @@
         },
         "gameMode": {
             "eacRuntimeEnabled": {
-                "message": "ران تایم EAC که بدون GameMode به درستی کار نمی کند،‌ فعال شده است. آیا می خواهید ران تایم EAC و GameMode را غیرفعال کنید؟",
+                "message": "ران تایم EAC که بدون GameMode به درستی کار نمی کند،\u200c فعال شده است. آیا می خواهید ران تایم EAC و GameMode را غیرفعال کنید؟",
                 "title": "ران تایم EAC فعال شد"
             }
         },

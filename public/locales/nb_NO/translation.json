@@ -276,7 +276,8 @@
         "website": "Laster inn nettsted"
     },
     "login": {
-        "externalLogin": "Ekstern pålogging"
+        "externalLogin": "Ekstern pålogging",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Synkronisering fullført",

@@ -276,7 +276,8 @@
         "website": "正在加载网站"
     },
     "login": {
-        "externalLogin": "外部登录"
+        "externalLogin": "外部登录",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "同步完成",

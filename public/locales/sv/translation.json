@@ -276,7 +276,8 @@
         "website": "Laddar websida"
     },
     "login": {
-        "externalLogin": "Externt login"
+        "externalLogin": "Externt login",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Synkronisering slutförd",

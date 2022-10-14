@@ -276,7 +276,8 @@
         "website": "Webgunea kargatzen"
     },
     "login": {
-        "externalLogin": "Kanpoko saioa"
+        "externalLogin": "Kanpoko saioa",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Sinkronizazioa amaituta",

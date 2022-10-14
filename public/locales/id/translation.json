@@ -276,7 +276,8 @@
         "website": "Memuat Situs Web"
     },
     "login": {
-        "externalLogin": "Log Masuk Eksternal"
+        "externalLogin": "Log Masuk Eksternal",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Sinkronisasi Selesai",

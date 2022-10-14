@@ -276,7 +276,8 @@
         "website": "Loading Website"
     },
     "login": {
-        "externalLogin": "External Login"
+        "externalLogin": "External Login",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Sync Concluído",

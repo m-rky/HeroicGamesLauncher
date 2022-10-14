@@ -276,7 +276,8 @@
         "website": "Завантаження вебсайту"
     },
     "login": {
-        "externalLogin": "Зовнішній вхід"
+        "externalLogin": "Зовнішній вхід",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Синхронізація завершена",

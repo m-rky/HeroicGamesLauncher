@@ -276,7 +276,8 @@
         "website": "Lade Webseite"
     },
     "login": {
-        "externalLogin": "Externe Anmeldung"
+        "externalLogin": "Externe Anmeldung",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Synchronisation abgeschlossen",

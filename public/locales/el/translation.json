@@ -276,7 +276,8 @@
         "website": "Φόρτωση Ιστοσελίδας"
     },
     "login": {
-        "externalLogin": "Εξωτερική Σύνδεση"
+        "externalLogin": "Εξωτερική Σύνδεση",
+        "message": "Choose the Platform. You can login to more than one platform at the same time."
     },
     "message": {
         "sync": "Ο συγχρονισμός ολοκληρώθηκε",
